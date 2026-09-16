@@ -201,4 +201,4 @@ Little Fighter is available as a complete free version with all features and upd
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-15 23:23:23 UTC
+**Last updated:** 2026-09-16 03:13:54 UTC
